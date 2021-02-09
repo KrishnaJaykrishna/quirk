@@ -252,7 +252,7 @@ class ExplanationScreen extends React.Component<Props> {
                     title="Intro"
                     width={80}
                     height={48}
-                    borderColor={theme.lightGray}
+                    borderColor={theme.lightBlue}
                     textColor={theme.veryLightText}
                     onPress={this.navigateToOnboardingScreen}
                   />
